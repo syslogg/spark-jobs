@@ -130,3 +130,5 @@ dmypy.json
 
 # parquet saved file
 *.parquet
+
+datasources/caso_covid_full.csv
